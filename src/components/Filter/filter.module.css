@@ -1,0 +1,11 @@
+.input {
+  margin-left: 15px;
+  border: 1px solid grey;
+  height: 25px;
+}
+
+.title {
+  margin-left: 15px;
+  font-size: 22px;
+  font-weight: 500;
+}
